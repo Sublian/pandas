@@ -1,3 +1,5 @@
+
+<span>https://raw.githubusercontent.com/sublian/pandas/main/pandaslogo.png</span><span></span>
 # Pandas
 ## General Info
 ### Practices with the python pandas library
