@@ -1,6 +1,8 @@
 
-<span>https://raw.githubusercontent.com/sublian/pandas/main/pandaslogo.png</span><span></span>
-# Pandas
+<a href="https://github.com/Sublian/pandas/blob/main/pandaslogo.png">
+  <img src="https://github.com/Sublian/pandas/blob/main/pandaslogo.png" />
+</a>
+
 ## General Info
 ### Practices with the python pandas library
 
